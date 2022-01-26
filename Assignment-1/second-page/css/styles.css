@@ -1,6 +1,6 @@
 li {
   float: left;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 li a {
@@ -12,14 +12,14 @@ li a {
 }
 
 p a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .title {
   color: white;
   padding-left: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .navigation {
@@ -49,7 +49,7 @@ p a {
 .banner-text {
   float: left;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .content {
@@ -66,14 +66,14 @@ p a {
 
 #content-text {
   padding: 10px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #learn-text {
   margin-top: 100px;
   text-align: center;
   padding-left: 15px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .center {
@@ -82,26 +82,35 @@ p a {
 }
 
 #table {
-margin-top: 50px;
+  margin-top: 50px;
   border: #00b894;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+#table-title {
+  font-family: "Roboto", sans-serif;
+}
+
+#table-font {
+  font-family: "Roboto", sans-serif;
+
 }
 
 .even-row {
-    background-color: #ecf0f1;
+  background-color: #ecf0f1;
 }
 
 .odd-row {
-   background-color: #bdc3c7; 
+  background-color: #bdc3c7;
 }
 
-.thead{
+.thead {
   background-color: #00b894;
   color: white;
 }
 
 .footer {
-    float: right;
-    margin-top: 100px;
-    font-family: 'Roboto', sans-serif;
+  float: right;
+  margin-top: 100px;
+  font-family: "Roboto", sans-serif;
 }
