@@ -16,13 +16,13 @@ p a {
     color: black;
 }
 
-header {
+.title {
   color: white;
   padding-left: 20px;
   font-family: 'Poppins', sans-serif;
 }
 
-#navigation {
+.navigation {
   background-color: #00b894;
   overflow: hidden;
   padding: 15px;
@@ -42,7 +42,7 @@ header {
   height: auto;
 }
 
-#banner {
+.banner {
   padding: 50px;
 }
 
@@ -52,7 +52,7 @@ header {
   font-family: 'Roboto', sans-serif;
 }
 
-#content {
+.content {
   margin-top: 60px;
   display: flex;
   padding: 20px;
@@ -101,7 +101,7 @@ tfoot {
   color: white;
 }
 
-footer {
+.footer {
     float: right;
     margin-top: 100px;
     font-family: 'Roboto', sans-serif;
