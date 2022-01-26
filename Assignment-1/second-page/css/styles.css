@@ -81,22 +81,21 @@ p a {
   margin-right: auto;
 }
 
-table {
+#table {
 margin-top: 50px;
   border: #00b894;
   font-family: 'Roboto', sans-serif;
 }
 
-#even-row {
+.even-row {
     background-color: #ecf0f1;
 }
 
-#odd-row {
+.odd-row {
    background-color: #bdc3c7; 
 }
 
-thead,
-tfoot {
+.thead{
   background-color: #00b894;
   color: white;
 }
